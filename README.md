@@ -1,4 +1,7 @@
-![WhatsApp Image 2025-10-02 at 10 53 01 (1)](https://github.com/user-attachments/assets/2565b976-5c74-4d3f-bec6-fe6a010aabc1)# home-wifi-maxis-extender
+# home-wifi-maxis-extender
+![WhatsApp Image 2025-10-02 at 10 56 29](https://github.com/user-attachments/assets/3ff72a89-533a-4c14-9e3d-f14d645351d5)
+note: This picture taken from online resources
+
 networking, home-lab, Wi-Fi, maxis, easy-mesh, extender/AP
 
 # 🏠 Extending Home Wi-Fi with Maxis Routers 
@@ -70,6 +73,7 @@ Also explored its **USB file sharing feature** for simple network storage.
   ![WhatsApp Image 2025-10-02 at 10 53 01 (1)](https://github.com/user-attachments/assets/888559d5-e343-4c6d-a2af-2b3d4e4b6ae4)
 
 - ✅ Browsing, streaming (even 4K), and gaming all work fine.
+![WhatsApp Image 2025-10-02 at 10 56 21](https://github.com/user-attachments/assets/2e388e7b-ecc3-4aae-bec1-d363428dda88)
 
 ---
 
